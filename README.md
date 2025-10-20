@@ -2,7 +2,7 @@ Python Network Scanner
 
 A simple, multi-threaded network port scanner built in Python. This tool allows you to scan a target IP address or hostname to identify open TCP ports.
 
-This project was created to demonstrate proficiency in Python programming, socket programming fundamentals, and multi-threading for performance enhancement. It serves as a basic tool for network reconnaissance and educational purposes in cybersecurity.<img width="2048" height="1500" alt="image" src="https://github.com/user-attachments/assets/8ef60fc8-c1c0-4cc6-b4a5-57808ea0c90c" />
+This project was created to demonstrate proficiency in Python programming, socket programming fundamentals, and multi-threading for performance enhancement. It serves as a basic tool for network reconnaissance and educational purposes in cybersecurity.
 <img width="2048" height="1500" alt="image" src="https://github.com/user-attachments/assets/5851e2cf-7ad8-450e-aa94-448b379880db" />
 Features
 
